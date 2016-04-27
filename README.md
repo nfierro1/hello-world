@@ -1,2 +1,7 @@
 # hello-world
-Git Tutorial
+
+Hi everyone,
+
+This is my first time using Git.
+
+Thanks.
